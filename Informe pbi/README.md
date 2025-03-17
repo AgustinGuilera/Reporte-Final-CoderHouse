@@ -9,6 +9,7 @@ Trata de un reporte de ventas con distintos gráficos que muestren de forma inte
 - Tooltip
 - Gráfico de Matriz y Mapa  
 
-![alt text](<Captura de pantalla 2025-03-17 111845.png>)
+![alt text](<Captura de pantalla 2025-03-17 112517.png>)
 
-![alt text](<Captura de pantalla 2025-03-17 111949.png>)
+![alt text](<Captura de pantalla 2025-03-17 112543.png>)
+
